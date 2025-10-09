@@ -136,15 +136,15 @@
   "testimonials": {
     "what-people-say": "¿Qué dice la gente sobre nuestro producto?",
     "first": {
-      "content": "ProP GMS me dio confianza en cada etapa de la construcción de mi casa. Pude consultar los plazos y comunicarme eficientemente.",
+      "content": "ClearCost me dio confianza en cada etapa de la construcción de mi casa. Pude consultar los plazos y comunicarme eficientemente.",
       "name": "Lucía Fernández"
     },
     "second": {
-      "content": "Desde el primer día, ProP GMS facilitó la comprensión de mis proyectos y tareas asignados. Respeta la jerarquía y los roles, a la vez que facilita la comunicación.",
+      "content": "Desde el primer día, ClearCost facilitó la comprensión de mis proyectos y tareas asignados. Respeta la jerarquía y los roles, a la vez que facilita la comunicación.",
       "name": "Sofía Ríos"
     },
     "third": {
-      "content": "He trabajado con contratistas antes, pero ProP GMS es una experiencia completamente nueva. Pude supervisar el progreso y ver hitos importantes.",
+      "content": "He trabajado con contratistas antes, pero ClearCost es una experiencia completamente nueva. Pude supervisar el progreso y ver hitos importantes.",
       "name": "Raúl Delgado"
     }
   },
@@ -160,7 +160,7 @@
       "title": "Términos y Condiciones",
       "introduction": {
         "title": "Introducción",
-        "content": "Este documento establece los términos y condiciones de uso de ProP GMS, desarrollada por el equipo Galaxia Wonder. Al acceder y utilizar esta plataforma, usted acepta estar sujeto a estos términos."
+        "content": "Este documento establece los términos y condiciones de uso de ClearCost, desarrollada por el equipo GreatBuild. Al acceder y utilizar esta plataforma, usted acepta estar sujeto a estos términos."
       },
       "use-of-the-service": {
         "title": "Uso del Servicio",
